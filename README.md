@@ -13,4 +13,4 @@ Desarrollando proyectos de análisis de datos, creando dashboards en Power BI y 
 ## Contacto
 [🔗 LinkedIn](https://www.linkedin.com/in/kevin-guti%C3%A9rrez-campos-44ab32212/)
 
-Email: kevingutierrezc@gmail.com
+kevingutierrezc@gmail.com
